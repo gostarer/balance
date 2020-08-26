@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be88ed49-70f3-4f60-8de5-ec7bfb6cbd0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/check_config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consistent_hash.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consistent_hash_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/round_robin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/round_robin_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weight_round_robin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weight_round_robin_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +57,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="首次提交负载均衡组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交负载均衡组件" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -79,9 +69,13 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="65" key="#Go_Modules_(vgo)/0.0.1280.800@0.0.1280.800" timestamp="1598326289824" />
-    <state x="0" y="0" width="812" height="800" key="CommitChangelistDialog2" timestamp="1598326368793">
+    <state x="0" y="0" width="812" height="800" key="CommitChangelistDialog2" timestamp="1598326430461">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="0" y="0" width="812" height="800" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1598326368793" />
+    <state x="0" y="0" width="812" height="800" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1598326430461" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1598326434692">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1598326434692" />
   </component>
 </project>

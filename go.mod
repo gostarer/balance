@@ -1,4 +1,4 @@
-module github.com/gostarer/GoStarBalance
+module github.com/gostarer/balance
 
 go 1.12
 
